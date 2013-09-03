@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="version">0.9.4</string>
+    <string name="hello">Starting...</string>
+    <string name="app_name">WlanDroid</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_stop">Stop</string>
+    
+    <string name="ckb_filtered">Filtered</string>
+    <string name="scanning">Scanning...</string>
+    <string name="scanned">Scanned</string>
+    <string name="noScanning">Stop scanning</string>
+    <string name="added">Wifi added</string>
+    <string name="notAdded">Error adding Wifi</string>
+    <string name="noKey">No key found on </string>
+</resources>
